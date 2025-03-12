@@ -1,4 +1,4 @@
-# Bike Sales Dashboard Project
+# Bike Sales Dashboard - Excel Project
 
 ![bike-sale-stockpack-adobe-stock-2400x1594](https://github.com/user-attachments/assets/86bfdffe-50ca-4d12-859f-450c4d377e36)
 
