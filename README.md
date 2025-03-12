@@ -1,3 +1,6 @@
+![pic](https://github.com/user-attachments/assets/5ee9fc93-381e-4893-b68c-cff829ed57a0)
+
+
 # Bike Sales Dashboard Project
 
 a) This project involves creating an interactive and insightful dashboard using Excel to analyze bike sales data. 
