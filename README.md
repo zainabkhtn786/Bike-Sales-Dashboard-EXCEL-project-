@@ -1,91 +1,93 @@
 # Bike Sales Dashboard Project
 
-This project involves creating an interactive and insightful dashboard using Excel to analyze bike sales data. The dashboard visualizes various customer demographics and purchasing behaviors.
+a) This project involves creating an interactive and insightful dashboard using Excel to analyze bike sales data. 
+b) The dashboard visualizes various customer demographics and purchasing behaviors.
 
 ## Project Overview
 
-#### a)The Bike Sales Dashboard uses Pivot Tables, Pivot Charts, and Slicers to present data in a user-friendly and interactive manner. 
-#### b)The data includes customer information such as income, education, commute distance, and bike purchasing behavior.
+ a) The Bike Sales Dashboard uses Pivot Tables, Pivot Charts, and Slicers to present data in a user-friendly and interactive manner. 
+ b) The data includes customer information such as income, education, commute distance, and bike purchasing behavior.
 
 ## Files Included
 
-Bike sales dashboard Excel Project.xlsx: The main Excel file containing raw data, pivot tables, and the dashboard.
+a) Bike sales dashboard Excel Project.xlsx: The main Excel file containing raw data, pivot tables, and the dashboard.
 
 ## Tools & Technologies Used
 
-Microsoft Excel
+a) Microsoft Excel
 
-Pivot Tables
+b) Pivot Tables
 
-Pivot Charts
+c) Pivot Charts
 
-Slicers
+d) Slicers
 
 ## Steps to Create the Dashboard
 
 ### 1. Data Preparation
 
-Open the Excel file and go to the bike_buyers sheet.
+a) Open the Excel file and go to the bike_buyers sheet.
 
-Ensure the data is clean and well-structured with appropriate column headers.
+b) Ensure the data is clean and well-structured with appropriate column headers.
 
 ### 2. Create Pivot Tables
 
-Go to Insert > Pivot Table.
+a) Go to Insert -> Pivot Table.
 
-Select the data range: bike_buyers!$A$1:$N$1001.
+b) Select the data range: bike_buyers!$A$1:$N$1001.
 
-Place the Pivot Table on the Pivot tables sheet.
+c) Place the Pivot Table on the Pivot tables sheet.
 
-Create separate Pivot Tables for different analyses:
+d) Create separate Pivot Tables for different analyses:
 
-Income by Gender and Purchase Behavior
+e) Income by Gender and Purchase Behavior
 
-Age Brackets and Bike Purchase Count
+f) Age Brackets and Bike Purchase Count
 
-Commute Distance and Bike Purchase Count
+g) Commute Distance and Bike Purchase Count
 
 ### 3. Create Pivot Charts
 
-Select each Pivot Table and go to Insert > Pivot Chart.
+a) Select each Pivot Table and go to Insert -> Pivot Chart.
 
-Choose an appropriate chart type (bar chart, line chart, etc.).
+b) Choose an appropriate chart type (bar chart, line chart, etc.).
 
-Place the charts on the Dashboard sheet.
+c) Place the charts on the Dashboard sheet.
 
 ### 4. Add Slicers
 
-Select any Pivot Table and go to Insert > Slicer.
+a) Select any Pivot Table and go to Insert -> Slicer.
 
-Choose slicers for relevant columns like Marital Status, Gender, and Purchased Bike.
+b) Choose slicers for relevant columns like Marital Status, Gender, and Purchased Bike.
 
-Format and arrange the slicers on the Dashboard sheet.
+c) Format and arrange the slicers on the Dashboard sheet.
 
 ### 5. Connect Slicers to All Pivot Tables
 
-Click on a slicer and go to Slicer Tools > Report Connections.
+a) Click on a slicer and go to Slicer Tools -> Report Connections.
 
-Check all Pivot Tables to link the slicer across them.
+b) Check all Pivot Tables to link the slicer across them.
 
-Ensure the slicers filter all charts simultaneously.
+c) Ensure the slicers filter all charts simultaneously.
 
 ### 6. Final Formatting
 
-Add a title: "BIKE SALES DASHBOARD".
+a) Add a title: "BIKE SALES DASHBOARD".
 
-Align and resize charts and slicers for clarity and visual appeal.
+b) Align and resize charts and slicers for clarity and visual appeal.
 
-Apply consistent colors and styles.
+c) Apply consistent colors and styles.
 
 ## Troubleshooting
 
 Slicer not connecting to all charts:
 
-Ensure all Pivot Tables use the same data range.
+a) Ensure all Pivot Tables use the same data range.
 
-Confirm each Pivot Table is included in the Report Connections.
+b) Confirm each Pivot Table is included in the Report Connections.
 
 ## Conclusion
 
-The Bike Sales Dashboard provides valuable insights into customer behavior and helps identify patterns in bike purchases. By using Excel’s powerful Pivot Table and Slicer features, the dashboard remains dynamic and interactive.
+a) The Bike Sales Dashboard provides valuable insights into customer behavior and helps identify patterns in bike purchases. 
+b) By using Excel’s powerful Pivot Table and Slicer features, the dashboard remains dynamic and interactive.
 
