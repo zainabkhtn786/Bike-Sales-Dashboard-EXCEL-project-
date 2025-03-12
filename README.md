@@ -1,14 +1,16 @@
+# Bike Sales Dashboard Project
+
 ![pic](https://github.com/user-attachments/assets/5ee9fc93-381e-4893-b68c-cff829ed57a0)
 
 
-# Bike Sales Dashboard Project
-
 a) This project involves creating an interactive and insightful dashboard using Excel to analyze bike sales data. 
+
 b) The dashboard visualizes various customer demographics and purchasing behaviors.
 
 ## Project Overview
 
  a) The Bike Sales Dashboard uses Pivot Tables, Pivot Charts, and Slicers to present data in a user-friendly and interactive manner. 
+ 
  b) The data includes customer information such as income, education, commute distance, and bike purchasing behavior.
 
 ## Files Included
