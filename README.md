@@ -1,6 +1,6 @@
 # Bike Sales Dashboard Project
 
-![pic](https://github.com/user-attachments/assets/5ee9fc93-381e-4893-b68c-cff829ed57a0)
+![bike-sale-stockpack-adobe-stock-2400x1594](https://github.com/user-attachments/assets/86bfdffe-50ca-4d12-859f-450c4d377e36)
 
 
 a) This project involves creating an interactive and insightful dashboard using Excel to analyze bike sales data. 
