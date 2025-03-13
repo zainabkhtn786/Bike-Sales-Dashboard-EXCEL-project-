@@ -94,5 +94,6 @@ b) Confirm each Pivot Table is included in the Report Connections.
 ## Conclusion
 
 a) The Bike Sales Dashboard provides valuable insights into customer behavior and helps identify patterns in bike purchases. 
+
 b) By using Excel’s powerful Pivot Table and Slicer features, the dashboard remains dynamic and interactive.
 
